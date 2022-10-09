@@ -4,6 +4,12 @@ body {
 }
 
 header {
-    background-color: palegoldenrod;
+    background-color: rgb(246, 243, 220);
 
+    padding: 20px 80px 20px 80px;
+
+    text-align: center;
+    color: rgb(157, 143, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
 }
