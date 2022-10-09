@@ -13,3 +13,28 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 1px;
 }
+
+nav {
+    border-bottom: 1px solid gainsboro;
+}
+
+nav,
+ul {
+    text-align: center;
+    padding-inline-start: 6px;
+
+
+    list-style-type: none;
+}
+
+li,
+a {
+    display: inline-block;
+    padding-right: 9px;
+
+    text-decoration-style: dotted;
+
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(82, 82, 82);
+}
