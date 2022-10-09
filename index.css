@@ -57,4 +57,10 @@ img {
 h3 p,
 .main-content {
     font-family: Georgia, 'Times New Roman', Times, serif;
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+
+    font-size: 16px;
 }
