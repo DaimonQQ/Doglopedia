@@ -15,7 +15,8 @@ header {
     letter-spacing: 1px;
 }
 
-nav {
+nav,
+.main-content {
     border-bottom: 1px solid gainsboro;
 }
 
@@ -51,4 +52,9 @@ img {
     border: 1px solid;
     border-bottom: 3px solid;
 
+}
+
+h3 p,
+.main-content {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
