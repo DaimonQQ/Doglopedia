@@ -1,6 +1,7 @@
 body {
     max-width: 600px;
     margin: 5px auto 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
@@ -11,7 +12,6 @@ header {
 
     text-align: center;
     color: rgb(150, 132, 97);
-    font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 1px;
 }
 
@@ -36,7 +36,6 @@ a {
     text-decoration-style: dotted;
 
     font-size: 16px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(82, 82, 82);
 }
 
@@ -54,9 +53,6 @@ img {
 
 }
 
-h3 p,
-.main-content {
-    font-family: Georgia, 'Times New Roman', Times, serif;
 
 footer {
     margin-top: 30px;
